@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently studying in USST
+- 🌱 I’m currently learning **Front-end Development & Algorithm**
+- 👯 I’m looking to collaborate on Open Source Projects
+- 🤔 I’m looking for help with Machine Learning
+- 💬 Ask me about **Python,HTML,CSS,JavaScript**
+- ⚡ Fun fact: *I love potato chips*
