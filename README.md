@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying in USST
-- 🌱 I’m currently learning **Front-end Development & Algorithm**
+- 🔭 I’m currently studying in ECNU
+- 🌱 I’m currently learning **Evolutionary Computation & Deep Learning**
 - 👯 I’m looking to collaborate on Open Source Projects
-- 🤔 I’m looking for help with Machine Learning
-- 💬 Ask me about **HTML,CSS,JavaScript**
+- 📫 How to reach me: aarondi1119@gmail.com
 - ⚡ Fun fact: *I love potato chips*
