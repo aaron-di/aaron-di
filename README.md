@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently studying in ECNU
-- 🌱 I’m currently learning **Evolutionary Computation & Deep Learning**
+- 🌱 I’m currently learning **Large Language Model & Blackbox Optimization & Evolutionary Computation**
 - 👯 I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: aarondi1119@gmail.com
 - ⚡ Fun fact: *I love potato chips*
