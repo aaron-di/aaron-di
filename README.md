@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying in ECNU
+- 🔭 I’m currently pursuing a Master’s degree at ECNU
+- 💼 I’m currently an Intern at ByteDance (ByteDance Soaring Star Talent Program), working as a Multimodal Large Language Model Algorithm Engineer
 - 🌱 I’m currently learning **Large Language Model & Blackbox Optimization**
 - 👯 I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me: aarondi1119@gmail.com
