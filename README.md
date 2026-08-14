@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently pursuing a Master’s degree at ECNU
-- 💼 I’m currently an Intern at ByteDance (ByteDance Soaring Star Talent Program), working as a Multimodal Large Language Model Algorithm Engineer
-- 🌱 I’m currently learning **Large Language Model & Blackbox Optimization**
-- 👯 I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me: aarondi1119@gmail.com
+- 💼 I’m currently working at **ByteDance** (**ByteDance Soaring Star Talent Program**), focusing on **LLM Agent Algorithms** in the **Agent Foundation team**
+- 🔬 My work focuses on **LLM Post-Training**, **Agent Evolution**, and **Agent Evaluation**
+- 👯 I’m always open to collaborating on interesting open-source projects
+- 📫 Reach me at: **aarondi1119@gmail.com**
 - ⚡ Fun fact: *I love potato chips*
