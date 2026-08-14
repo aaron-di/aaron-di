@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 💼 I’m currently working at **ByteDance** (**ByteDance Soaring Star Talent Program**), focusing on **LLM Agent Algorithms** in the **Agent Foundation team**
+- 💼 I’m currently working at **ByteDance** (**ByteDance Soaring Star Talent Program**), focusing on LLM Agent Algorithms in the **Agent Foundation team**
 - 🔬 My work focuses on **LLM Post-Training**, **Agent Evolution**, and **Agent Evaluation**
 - 👯 I’m always open to collaborating on interesting open-source projects
 - 📫 Reach me at: **aarondi1119@gmail.com**
